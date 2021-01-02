@@ -10,3 +10,11 @@ Consult our [online documentation](//developers.google.com/resonance-audio/devel
 
 To learn more about how Resonance Audio works, see
 [https://developers.google.com/resonance-audio/discover/concepts](https://developers.google.com/resonance-audio/discover/concepts)
+
+
+## Developing on Resonance Audio locally
+
+- Install Volta from https://volta.sh/ (optional: only if you care about Node/Yarn version locking)
+- `yarn`
+- `yarn build`
+- `yarn test` (you have to build first)
